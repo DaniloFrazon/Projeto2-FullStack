@@ -1,0 +1,180 @@
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"Conexão com PostgreSQL (Pool) estabelecida com sucesso."}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"Conexão com PostgreSQL (Pool) estabelecida com sucesso."}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Tentativa de inserção por testuser"}
+{"level":"error","message":"Erro na inserção de conteúdo: First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`."}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Tentativa de inserção por testuser"}
+{"level":"error","message":"Erro na inserção de conteúdo: First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`."}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"Tentativa de inserção por testuser"}
+{"level":"error","message":"Erro na inserção de conteúdo: First argument to `Model` constructor must be an object, **not** a string. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`."}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?query=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?query=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?query=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?query=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?query=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?query=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?query=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?query=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?query=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"GET /api/games/search?q=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=dnl&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DANCLARK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/undefined - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/undefined - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=counter+strike&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/19301 - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/19301 - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=Counter+Strike&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/19301 - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/19301 - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"GET /api/games/search?q=Counter+Strike&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/19301 - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/19301 - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DANDAN&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=CLARK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"GET /api/games/custom - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /favicon.ico - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=counter&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/19301 - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/19301 - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=FULLSTACK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/undefined - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/undefined - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=FULLSTACK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=FULLSTACK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=COUNTER+STRIKE&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"GET /api/games/search?q=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=FULLSTACK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"--- SERVIDOR EXPRESS INICIANDO ---"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"--- APLICAÇÃO PRONTA ---"}
+{"level":"info","message":"POST /api/auth/login - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=fullstack&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=FULLSTACK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=CLARK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=COUNTER+STRIKE&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=CLARK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=FULLSTACK&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/search?q=DNL+Ofensive&platform=&genre=&year= - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/custom - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"POST /api/games - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/custom - IP: ::ffff:172.18.0.1"}
+{"level":"info","message":"GET /api/games/custom - IP: ::ffff:172.18.0.1"}
